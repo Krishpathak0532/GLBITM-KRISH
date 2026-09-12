@@ -79,7 +79,7 @@ function displayAssessments() {
             </h3>
 
             <p class="date">
-                📅 Due Date: ${assessment.date}
+                📅 Upload Date: ${assessment.date}
             </p>
 
             <a
