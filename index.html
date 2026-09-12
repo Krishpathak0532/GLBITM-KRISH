@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>GL Bajaj Assessments</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="container">
+            <h1>GL Bajaj Institute Of Technology And Management</h1>
+            <p>College Assessment Portal   G1U</p>
+            <p>BY KRISH.CO</p>
+        </div>
+    </header>
+
+
+    <main class="container">
+
+        <section class="welcome">
+            <h2>📚 College Assessments</h2>
+            <p>All your assessments in one place.</p>
+        </section>
+
+
+        <div class="subjects">
+
+            <button onclick="filterSubject('All')">All</button>
+            <button onclick="filterSubject('Physics')">Physics</button>
+            <button onclick="filterSubject('Electrical')">Electrical</button>
+            <button onclick="filterSubject('TEP')">TEP</button>
+            <button onclick="filterSubject('PSP')">PSP</button>
+
+        </div>
+
+
+        <section id="assessmentContainer">
+
+            <p class="loading">Loading assessments...</p>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+        <p>GL Bajaj Assessment Portal</p>
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
