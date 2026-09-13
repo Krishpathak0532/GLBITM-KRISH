@@ -22,8 +22,15 @@
 
    {
         "subject": "Electrical",
-        "title": "Electrical lab 1",
+        "title": "Electrical lab Diksha Mam",
         "date": "13 September 2026",
         "file": "assessments/Electrical/Transformer KRISH.CO.pdf"
+    },
+    
+    {
+        "subject": "Electrical",
+        "title": "Electrical lab Siraj Sir",
+        "date": "13 September 2026",
+        "file": "assessments/Electrical/Kirchhofflaw KRISH.CO.pdf"
     }
 ]
