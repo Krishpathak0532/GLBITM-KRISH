@@ -1,14 +1,14 @@
 [
     {
         "subject": "Physics",
-        "title": "Physics lab 1",
+        "title": "Physics lab Viscosity",
         "date": "13 September 2026",
         "file": "assessments/Physics/Viscosity KRISH.CO.pdf"
     },
 
     {
         "subject": "Physics",
-        "title": "Physics lab 2",
+        "title": "Physics lab Stefan Law",
         "date": "13 September 2026",
         "file": "assessments/Physics/Stefanlaw KRISH.CO.pdf"
     },
@@ -32,5 +32,12 @@
         "title": "Electrical lab Siraj Sir",
         "date": "13 September 2026",
         "file": "assessments/Electrical/Kirchhofflaw KRISH.CO.pdf"
+    },
+    
+     {
+        "subject": "Physics",
+        "title": "Physics lab Bar Pendulum",
+        "date": "13 September 2026",
+        "file": "assessments/Physics/Barpendulum KRISH.CO.pdf"
     }
 ]
